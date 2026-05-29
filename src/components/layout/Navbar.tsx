@@ -52,7 +52,7 @@ export default function Navbar() {
           </a>
 
           <a 
-            href="mailto:gabrielawfh@gmail.com"
+            href="mailto:gabrielaivaniag@gmail.com"
             className="px-4 py-2 text-sm font-medium bg-zinc-100 text-black rounded-full hover:bg-zinc-300 transition-colors flex items-center gap-2"
           >
             <Mail size={16} />

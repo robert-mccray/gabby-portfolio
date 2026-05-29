@@ -54,7 +54,7 @@ export default function Home() {
             <motion.div 
               initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.3 }}
             >
-              <a href="mailto:gabrielawfh@gmail.com" className="inline-block px-8 py-4 bg-gold text-brand-dark font-semibold font-sans rounded-full hover:bg-gold-light hover:scale-105 transition-all duration-300 shadow-[0_0_20px_rgba(212,175,55,0.3)]">
+              <a href="mailto:gabrielaivaniag@gmail.com" className="inline-block px-8 py-4 bg-gold text-brand-dark font-semibold font-sans rounded-full hover:bg-gold-light hover:scale-105 transition-all duration-300 shadow-[0_0_20px_rgba(212,175,55,0.3)]">
                 Start a Conversation
               </a>
             </motion.div>
@@ -148,7 +148,7 @@ export default function Home() {
         <motion.div initial="hidden" whileInView="show" viewport={{ once: true }} variants={fadeUp} className="max-w-3xl mx-auto relative z-10">
           <h2 className="text-5xl md:text-7xl font-serif mb-6">Let's build something <span className="font-script text-gold text-6xl md:text-8xl lowercase">exceptional</span>.</h2>
           <p className="text-xl text-zinc-300 mb-10 font-sans font-light">Currently accepting inquiries for freelance partnerships and full-time director roles.</p>
-          <a href="mailto:gabrielawfh@gmail.com" className="inline-block px-10 py-4 bg-gold text-brand-dark font-sans font-semibold rounded-full hover:bg-gold-light hover:scale-105 transition-all duration-300 shadow-[0_0_20px_rgba(212,175,55,0.2)]">
+          <a href="mailto:gabrielaivaniag@gmail.com" className="inline-block px-10 py-4 bg-gold text-brand-dark font-sans font-semibold rounded-full hover:bg-gold-light hover:scale-105 transition-all duration-300 shadow-[0_0_20px_rgba(212,175,55,0.2)]">
             Contact Me
           </a>
         </motion.div>
